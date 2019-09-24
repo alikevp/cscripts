@@ -2,7 +2,7 @@
     "name": "alikevp/cscripts",
     "description": "Package provides call scripts for operateurs.",
     "type": "project",
-    "license": "EULA",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Alik",
