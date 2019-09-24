@@ -1,5 +1,5 @@
 {
-    "name": "callscripts/callscripts",
+    "name": "alikevp/cscripts",
     "description": "Package provides call scripts for operateurs.",
     "type": "project",
     "license": "EULA",
@@ -10,11 +10,5 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "App\\": "app/",
-            "Callscripts\\Callscripts\\": "packages/Callscripts/Callscripts/src"
-        }
-    }
+    "require": {}
 }
