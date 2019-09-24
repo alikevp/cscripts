@@ -1,0 +1,20 @@
+{
+    "name": "callscripts/callscripts",
+    "description": "Package provides call scripts for operateurs.",
+    "type": "project",
+    "license": "EULA",
+    "authors": [
+        {
+            "name": "Alik",
+            "email": "alik@kushlyansky.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Callscripts\\Callscripts\\": "packages/Callscripts/Callscripts/src"
+        }
+    }
+}
